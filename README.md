@@ -1,2 +1,3 @@
-# sign-up-form
-Sign Up Form - JS Validation
+# Sign Up Form - JS Validation
+
+> Diseño obtenido de [este CodePen](https://codepen.io/SdotMorris/pen/yJuwl). 
